@@ -1,6 +1,12 @@
 
 # Personal Front-End Mentor Challenges Completed
 
+### Github pages link
+
+Since I'm still learning stuff, I can't seem to find how I'm able to view my project's web page without using the link, so I'll have it here for my future reference.
+
+> https://smic29.github.io/project_name_here
+
 ## Beginner Challenges
  - Product Preview Card
  - Results Summary
@@ -25,10 +31,3 @@ I managed to fix the issue with me README.md not properly rendering. Apparently 
 Now before we move onto future projects, I'll just be quickly fixing up my earlier project's readme files. I probably shouldn't be making a readme file like a journal, but whatever, I'm a beginner, I'll just do things my way until I need to not do that anymore. 
 
 To future me, aim for a one-day project completion!
-
-
-## Github pages link
-
-Since I'm still learning stuff, I can't seem to find how I'm able to view my project's web page without using the link, so I'll have it here for my future reference.
-
-> https://smic29.github.io/project_name_here
